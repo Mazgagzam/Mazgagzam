@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mazgagzam&show_icons=true&&theme=tokyonight" />
+</p>
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mazgagzam/&title=Profile%20Views)
+
+
 <!--
 **Mazgagzam/Mazgagzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
