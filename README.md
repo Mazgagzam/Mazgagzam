@@ -6,6 +6,11 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mazgagzam/&title=Profile%20Views)
 
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 
 <!--
 **Mazgagzam/Mazgagzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
