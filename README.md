@@ -7,7 +7,7 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mazgagzam/&title=Profile%20Views)
 
 
-[![wakatime](https://wakatime.com/badge/user/3537cdf6-e137-4634-b556-860fc7da097c.svg)](https://wakatime.com/@3537cdf6-e137-4634-b556-860fc7da097c)
+[![wakatime](https://wakatime.com/badge/user/018e4238-1c60-41c8-82e8-2438628f7a3b.svg)](https://wakatime.com/@018e4238-1c60-41c8-82e8-2438628f7a3b)
 
 
 <!--
