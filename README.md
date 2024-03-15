@@ -6,10 +6,9 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mazgagzam/&title=Profile%20Views)
 
-<img
-  src="https://github.com/Mazgagzam/Mazgagzam/blob/main/images/stat.svg"
-  alt="Text"
-/>
+
+[![wakatime](https://wakatime.com/badge/user/3537cdf6-e137-4634-b556-860fc7da097c.svg)](https://wakatime.com/@3537cdf6-e137-4634-b556-860fc7da097c)
+
 
 <!--
 **Mazgagzam/Mazgagzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
