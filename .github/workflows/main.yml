@@ -25,3 +25,8 @@ jobs:
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
           # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
           STATS_RANGE: "last_7_days"
+on:
+  push:
+    branches: [master]
+  schedule:
+    - cron: "1 0 * * *"
