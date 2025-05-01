@@ -5,10 +5,10 @@
 </p>
 ![Mazgagzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazgagzam&show_icons=true&theme=radical)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Python+Developer&center=true&width=500&height=50)
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://img.shields.io/badge/Python-3.10-blue)
 
 
-![wakatime](https://wakatime.com/badge/user/018e4238-1c60-41c8-82e8-2438628f7a3b.svg)](https://wakatime.com/@018e4238-1c60-41c8-82e8-2438628f7a3b)
+[![wakatime](https://wakatime.com/badge/user/018e4238-1c60-41c8-82e8-2438628f7a3b.svg)](https://wakatime.com/@018e4238-1c60-41c8-82e8-2438628f7a3b)
 <!--
 **Mazgagzam/Mazgagzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
