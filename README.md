@@ -5,6 +5,8 @@
 </p>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mazgagzam/&title=Profile%20Views)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/Mazgagzam&title=Profile%20Views)
+
 
 [![wakatime](https://wakatime.com/badge/user/018e4238-1c60-41c8-82e8-2438628f7a3b.svg)](https://wakatime.com/@018e4238-1c60-41c8-82e8-2438628f7a3b)
 <!--
