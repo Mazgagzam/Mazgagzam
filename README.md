@@ -8,12 +8,6 @@
 
 Меня зовут Mazgagzam.
 
-## 🛠 Технологии
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-
-## 🖥 GitHub Статистика
-![Mazgagzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazgagzam&show_icons=true&theme=radical)
-
 ## 🏎 Что я делаю
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Python+Developer&center=true&width=500&height=50)
 
