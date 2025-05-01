@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Mazgagzam&show_icons=true&&theme=tokyonight" />
 </p>
 
-## 🏎 Что я делаю
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Python+Developer&center=true&width=500&height=50)
 
 
