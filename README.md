@@ -9,9 +9,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mazgagzam&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left">
-  <img src="" alt="Mazgagzam" />
-</p>
 <!--
 **Mazgagzam/Mazgagzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
