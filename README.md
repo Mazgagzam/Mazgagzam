@@ -9,6 +9,9 @@
 
 
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mazgagzam&label=Profile%20views&color=0e75b6&style=flat" alt="Mazgagzam" />
+</p>
 [![wakatime](https://wakatime.com/badge/user/018e4238-1c60-41c8-82e8-2438628f7a3b.svg)](https://wakatime.com/@018e4238-1c60-41c8-82e8-2438628f7a3b)
 <!--
 **Mazgagzam/Mazgagzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
