@@ -5,13 +5,12 @@
 </p>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Python+Developer&center=true&width=500&height=50)
 ![wakatime](https://wakatime.com/badge/user/018e4238-1c60-41c8-82e8-2438628f7a3b.svg)
 
-
+![Profile views](https://komarev.com/ghpvc/?username=Mazgagzam&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mazgagzam&label=Profile%20views&color=0e75b6&style=flat" alt="Mazgagzam" />
+  <img src="" alt="Mazgagzam" />
 </p>
 <!--
 **Mazgagzam/Mazgagzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
