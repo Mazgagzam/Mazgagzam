@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mazgagzam&show_icons=true&&theme=tokyonight" />
-</p>
+##### Im studying ML
 
 
 ![wakatime](https://wakatime.com/badge/user/018e4238-1c60-41c8-82e8-2438628f7a3b.svg)
