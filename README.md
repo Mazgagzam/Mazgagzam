@@ -1,4 +1,4 @@
-# Hi, I'm Agzam 👋
+# Hello 👋
 
 **AI researcher · NLP enthusiast · Data Science & AI student at KBTU**
 
