@@ -1,6 +1,6 @@
-# Hello 👋
+# Hi
 
-**AI researcher · NLP enthusiast · Data Science & AI student at KBTU**
+**AI researcher · NLP enthusiast**
 
 I love working on NLP and building ML systems that can explain where their answers come from. My interests span language models, retrieval, code understanding, and applied machine learning.
 
